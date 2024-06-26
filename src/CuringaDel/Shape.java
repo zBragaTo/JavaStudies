@@ -1,5 +1,6 @@
 package CuringaDel;
 
-public class Shape {
+public interface Shape {
 
+	double area();
 }
