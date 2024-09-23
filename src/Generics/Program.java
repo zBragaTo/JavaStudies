@@ -7,6 +7,7 @@ public class Program {
 		
 		Scanner sc = new Scanner(System.in);
 
+		//pode instanciar como qualquer tipo <T>
 		PrintService<String> ps = new PrintService<>();
 		
 		System.out.println("How many values? ");
